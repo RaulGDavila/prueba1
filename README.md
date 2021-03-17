@@ -62,10 +62,17 @@ Escritura de codigo
     {
         assertTrue( 10 == Libreria.resta(5,6)  );
     }
-    ````
+```
     
     
-    ```bash
+
+    
+Raul
+
+El proyecto consta de 
+-superheroes y supervillanos 
+
+-***Supersuper***
     
     
     
